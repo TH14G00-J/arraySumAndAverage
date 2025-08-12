@@ -21,6 +21,7 @@ Saída:
 
 Exemplo de execução:
 --------------------
+```
 Quantos números você vai digitar? 4
 Digite um número: 8.0
 Digite um número: 4.0
@@ -29,7 +30,7 @@ Digite um número: 14.0
 VALORES = 8.0 4.0 10.0 14.0
 SOMA = 36.00
 MEDIA = 9.00
-
+```
 Tecnologias utilizadas:
 -----------------------
 - Java
